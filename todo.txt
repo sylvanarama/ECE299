@@ -1,0 +1,5 @@
+To-Do:
+
+- speaker
+- segment multiplexing
+- button configurations
